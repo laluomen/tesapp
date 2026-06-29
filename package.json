@@ -2,7 +2,7 @@
   "name": "tesapp",
   "version": "0.0.0",
   "engines": {
-    "node": "24.18.0"
+    "node": "24.13.0"
   },
   "scripts": {
     "ng": "ng",
